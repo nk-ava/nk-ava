@@ -6,8 +6,8 @@
 <h1>Github</h1>
 <div align="center">
   
-  ![header](https://github-readme-stats.vercel.app/api?username=zlh-debug&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlh-debug&layout=compact)
+  ![header](https://github-readme-stats.vercel.app/api?username=nk-ava&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-ava&layout=compact)
 </div>
 
 <h1>I can</h1>
